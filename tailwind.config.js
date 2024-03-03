@@ -3,7 +3,7 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      sans: ["Gotham", "ui-sans-serif", "system-ui"],
+      sans: ["Open Sans", "ui-sans-serif", "system-ui"],
     },
     extend: {
       colors: {
